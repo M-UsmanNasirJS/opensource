@@ -1,0 +1,22 @@
+				Basics Rules of the CSS.
+
+
+1. Selectors: Choose the HTML elements you want to style (like p, .class, #id).
+
+2. Declarations: Define styles with property: value; (e.g., color: red;).
+
+3. Cascading: Styles can overwrite others based on order and specificity.
+
+4. Box Model: Each element has content, padding, border, and margin that shape its size.
+
+5. Positioning: Control where an element appears using static, relative, absolute, fixed, or sticky.
+
+6. Flexbox: A layout system that helps arrange elements in rows or columns easily.
+
+7. Grid Layout: A system for creating complex, multi-row, and multi-column designs.
+
+8. Media Queries: Apply different styles depending on the device (e.g., mobile or desktop).
+
+9. Color and Typography: Set colors and text styles (like fonts and size).
+
+10. Transitions and Animations: Make changes smooth and create effects like movement or fading.
